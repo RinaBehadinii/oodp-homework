@@ -1,0 +1,14 @@
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\Users\Rina\Desktop\OOPDP\Homework\Prototype\Prototype\obj\Debug\net6.0\ref\Prototype.dll
